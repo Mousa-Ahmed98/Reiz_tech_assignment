@@ -1,0 +1,15 @@
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/bin/Debug/net7.0/Analogue clock
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/bin/Debug/net7.0/Analogue clock.deps.json
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/bin/Debug/net7.0/Analogue clock.runtimeconfig.json
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/bin/Debug/net7.0/Analogue clock.dll
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/bin/Debug/net7.0/Analogue clock.pdb
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/Analogue clock.csproj.AssemblyReference.cache
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/Analogue clock.GeneratedMSBuildEditorConfig.editorconfig
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/Analogue clock.AssemblyInfoInputs.cache
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/Analogue clock.AssemblyInfo.cs
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/Analogue clock.csproj.CoreCompileInputs.cache
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/Analogue clock.dll
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/refint/Analogue clock.dll
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/Analogue clock.pdb
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/Analogue clock.genruntimeconfig.cache
+/home/mousa/RiderProjects/Reiz tech assignment/Analogue clock/obj/Debug/net7.0/ref/Analogue clock.dll

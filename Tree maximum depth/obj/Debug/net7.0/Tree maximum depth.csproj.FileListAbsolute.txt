@@ -1,0 +1,15 @@
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/bin/Debug/net7.0/Tree maximum depth
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/bin/Debug/net7.0/Tree maximum depth.deps.json
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/bin/Debug/net7.0/Tree maximum depth.runtimeconfig.json
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/bin/Debug/net7.0/Tree maximum depth.dll
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/bin/Debug/net7.0/Tree maximum depth.pdb
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/Tree maximum depth.csproj.AssemblyReference.cache
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/Tree maximum depth.GeneratedMSBuildEditorConfig.editorconfig
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/Tree maximum depth.AssemblyInfoInputs.cache
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/Tree maximum depth.AssemblyInfo.cs
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/Tree maximum depth.csproj.CoreCompileInputs.cache
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/Tree maximum depth.dll
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/refint/Tree maximum depth.dll
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/Tree maximum depth.pdb
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/Tree maximum depth.genruntimeconfig.cache
+/home/mousa/RiderProjects/Reiz tech assignment/Tree maximum depth/obj/Debug/net7.0/ref/Tree maximum depth.dll
